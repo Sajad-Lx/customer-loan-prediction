@@ -1,4 +1,4 @@
-# Customer loan prediction Analysis
+# Customer Loan Prediction Analysis
 This is a group project in python on topic - Customer loan prediction analysis. This project is done for college project submission purpose.
 
 This project is done by group of 3 members:<br />
